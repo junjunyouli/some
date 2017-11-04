@@ -1,0 +1,17 @@
+{
+  "name": "some",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/junjunyouli/some.git",
+  "author": "zhu.jun",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "jasmine-core": "^2.8.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7+deprecated"
+  }
+}
